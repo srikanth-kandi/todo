@@ -19,11 +19,11 @@ A simple and efficient To-Do List Manager web application that allows users to m
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/srikanth-kandi/todo.git
    ```
 2. Navigate to the project directory:
    ```
-   cd todo-list
+   cd todo
    ```
 3. Open the `index.html` file in your web browser to view the application.
 
